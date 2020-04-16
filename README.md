@@ -16,4 +16,5 @@ Purpose of this project is to learn Spotify API and tekore library.
 So For now, no pull requests
 
 ## License
-https://img.shields.io/github/license/jward8/spotifyplaylist_generator
+[MIT](https://choosealicense.com/licenses/mit/)
+
